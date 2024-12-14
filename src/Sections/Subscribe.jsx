@@ -12,7 +12,7 @@ const Subscribe = () => {
       <div className="flex justify-between items-center gap-2">
         <input
           type="text"
-          placeholder="Subscribe @nike.com"
+          placeholder="Subscribe @gmail.com"
           className="input border-2 border-coral-red border-solid rounded"
         ></input>
         <div>
