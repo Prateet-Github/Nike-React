@@ -80,7 +80,7 @@ export const reviews = [
     {
         imgURL: customer2,
         customerName: 'The Weeknd',
-        rating: 4.2,
+        rating: 4.7,
         feedback: "The product not only met but exceeded my expectations. I'll definitely be a regular customer!"
     }
 ];
